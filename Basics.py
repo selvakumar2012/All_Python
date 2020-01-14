@@ -5,4 +5,10 @@ my_list = [[1,2,3],[4,5,6],7,8,9]]
 for i in my_list:
 	for j in my_list:
 		print (i,end="")
+i = 0
+while i <= 5:
+	print ("This is all about my python")
+	i += 1
+	
+	
 		
